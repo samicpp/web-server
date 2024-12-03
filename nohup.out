@@ -1,0 +1,115 @@
+sudo: /home/codespace/.deno/bin/deno: command not found
+pid:  100
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m12[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m20[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m5[0m:[0m[33m5[0m
+pid:  146
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m12[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m20[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m5[0m:[0m[33m5[0m
+pid:  154
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m12[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m20[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m5[0m:[0m[33m5[0m
+pid:  173
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m12[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m20[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m5[0m:[0m[33m5[0m
+pid:  161
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m12[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m20[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m5[0m:[0m[33m5[0m
+pid:  168
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m12[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m20[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m5[0m:[0m[33m5[0m
+pid:  167
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m12[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m20[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m5[0m:[0m[33m5[0m
+pid:  163
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m12[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m20[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m5[0m:[0m[33m5[0m
+pid:  166
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m13[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m21[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m5[0m:[0m[33m5[0m
+pid:  146
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m26[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m34[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m7[0m:[0m[33m5[0m
+pid:  196
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m26[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m34[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m7[0m:[0m[33m5[0m
+[0m[1m[31merror[0m: Module not found "file:///workspaces/2425-h4in2-koou-html-samicpp/docs".
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m2[0m:[0m[33m18[0m
+pid:  162
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m26[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m34[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m7[0m:[0m[33m5[0m
+pid:  283
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m26[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m34[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m7[0m:[0m[33m5[0m
+pid:  397
+[0m[1m[31merror[0m: Uncaught (in promise) NotCapable: Requires net access to "0.0.0.0:80", run again with the --allow-net flag
+    return this.#Deno.listen({ port: this.port, host: this.host });
+[0m[31m                      ^[0m
+    at [0m[1m[3mObject.listen[0m ([0m[36mext:deno_net/01_net.js[0m:[0m[33m504[0m:[0m[33m35[0m)
+    at [0m[1m[3mEngine.get server[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m26[0m:[0m[33m23[0m)
+    at [0m[1m[3mEngine.start[0m ([0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/engine.ts[0m:[0m[33m34[0m:[0m[33m27[0m)
+    at [0m[36mfile:///workspaces/2425-h4in2-koou-html-samicpp/main.ts[0m:[0m[33m7[0m:[0m[33m5[0m
