@@ -1,0 +1,17 @@
+body{font-family: times new roman;/*white-space:pre;*/}
+div{
+	display: block;
+}
+table,td{
+	border:1px, solid;
+}
+td{
+	border-width: 1px;
+	border-color: black;
+}
+td#td1{
+	align-content: center;
+	text-align: center;
+	font-weight: bold;
+	width:200%;
+}
